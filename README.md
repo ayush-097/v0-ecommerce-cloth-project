@@ -1,4 +1,4 @@
-# 🛍️ Ecommerce Clothing Store (Next.js + AI Generated)
+# 🛍️ Ecommerce Clothing Store
 
 An AI-generated **Ecommerce Clothing Store** built with **Next.js** using **v0.dev** for rapid UI generation and deployed on **Vercel**.  
 This project demonstrates modern frontend architecture, reusable components, and a fast AI-assisted development workflow.
